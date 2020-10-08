@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Not Updated Version")
+print("Checking")
